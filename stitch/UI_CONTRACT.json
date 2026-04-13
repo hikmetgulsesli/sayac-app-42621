@@ -1,0 +1,578 @@
+[
+  {
+    "screenId": "4e432f2d19eb436da5fd7c15e0b2ce73",
+    "screenTitle": "Sayac-App-42621 PRD",
+    "deviceType": "DESKTOP",
+    "elements": [],
+    "navigation": [],
+    "buttons": [],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 0,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "885227bf31a94035bc00e1cb3072d6a4",
+    "screenTitle": "Başlangıç Durumu (0)",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "link",
+        "label": "add_circle\nCounter",
+        "href": "#",
+        "line": 116
+      },
+      {
+        "type": "link",
+        "label": "history\nHistory",
+        "href": "#",
+        "line": 120
+      },
+      {
+        "type": "link",
+        "label": "emoji_events\nMilestones",
+        "href": "#",
+        "line": 124
+      },
+      {
+        "type": "link",
+        "label": "settings\nSettings",
+        "href": "#",
+        "line": 128
+      },
+      {
+        "type": "button",
+        "label": "history",
+        "line": 101
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 104
+      },
+      {
+        "type": "button",
+        "label": "refresh\nReset",
+        "line": 169
+      },
+      {
+        "type": "button",
+        "label": "remove\nDecrement",
+        "line": 178
+      },
+      {
+        "type": "button",
+        "label": "add\nBAŞLAT",
+        "line": 183
+      },
+      {
+        "type": "button",
+        "label": "refresh\nReset",
+        "line": 187
+      },
+      {
+        "type": "button",
+        "label": "add",
+        "line": 193
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 102
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 105
+      },
+      {
+        "type": "button",
+        "label": "[icon: add_circle]",
+        "line": 117
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 121
+      },
+      {
+        "type": "button",
+        "label": "[icon: emoji_events]",
+        "line": 125
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 129
+      },
+      {
+        "type": "button",
+        "label": "[icon: person]",
+        "line": 135
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 170
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 179
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 184
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 188
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 194
+      }
+    ],
+    "navigation": [
+      {
+        "type": "link",
+        "label": "add_circle\nCounter",
+        "href": "#",
+        "line": 116
+      },
+      {
+        "type": "link",
+        "label": "history\nHistory",
+        "href": "#",
+        "line": 120
+      },
+      {
+        "type": "link",
+        "label": "emoji_events\nMilestones",
+        "href": "#",
+        "line": 124
+      },
+      {
+        "type": "link",
+        "label": "settings\nSettings",
+        "href": "#",
+        "line": 128
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 101
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 104
+      },
+      {
+        "type": "button",
+        "label": "refresh\nReset",
+        "line": 169
+      },
+      {
+        "type": "button",
+        "label": "remove\nDecrement",
+        "line": 178
+      },
+      {
+        "type": "button",
+        "label": "add\nBAŞLAT",
+        "line": 183
+      },
+      {
+        "type": "button",
+        "label": "refresh\nReset",
+        "line": 187
+      },
+      {
+        "type": "button",
+        "label": "add",
+        "line": 193
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 102
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 105
+      },
+      {
+        "type": "button",
+        "label": "[icon: add_circle]",
+        "line": 117
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 121
+      },
+      {
+        "type": "button",
+        "label": "[icon: emoji_events]",
+        "line": 125
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 129
+      },
+      {
+        "type": "button",
+        "label": "[icon: person]",
+        "line": 135
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 170
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 179
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 184
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 188
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 194
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 23,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "94eca08e391243f3ba5e287d8957847f",
+    "screenTitle": "Ana Sayaç - Aktif",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "link",
+        "label": "add_circle\n                Counter",
+        "href": "#",
+        "line": 118
+      },
+      {
+        "type": "link",
+        "label": "history\n                History",
+        "href": "#",
+        "line": 122
+      },
+      {
+        "type": "link",
+        "label": "emoji_events\n                Milestones",
+        "href": "#",
+        "line": 126
+      },
+      {
+        "type": "link",
+        "label": "settings\n                Settings",
+        "href": "#",
+        "line": 130
+      },
+      {
+        "type": "button",
+        "label": "history",
+        "line": 96
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 99
+      },
+      {
+        "type": "button",
+        "label": "refresh\n\nSıfırla",
+        "line": 172
+      },
+      {
+        "type": "button",
+        "label": "remove\n\nAzalt",
+        "line": 183
+      },
+      {
+        "type": "button",
+        "label": "add\nArtır",
+        "line": 190
+      },
+      {
+        "type": "button",
+        "label": "refresh\n\nSıfırla",
+        "line": 195
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 97
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 100
+      },
+      {
+        "type": "button",
+        "label": "[icon: add_circle]",
+        "line": 119
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 123
+      },
+      {
+        "type": "button",
+        "label": "[icon: emoji_events]",
+        "line": 127
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 131
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 174
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 185
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 191
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 197
+      }
+    ],
+    "navigation": [
+      {
+        "type": "link",
+        "label": "add_circle\n                Counter",
+        "href": "#",
+        "line": 118
+      },
+      {
+        "type": "link",
+        "label": "history\n                History",
+        "href": "#",
+        "line": 122
+      },
+      {
+        "type": "link",
+        "label": "emoji_events\n                Milestones",
+        "href": "#",
+        "line": 126
+      },
+      {
+        "type": "link",
+        "label": "settings\n                Settings",
+        "href": "#",
+        "line": 130
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 96
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 99
+      },
+      {
+        "type": "button",
+        "label": "refresh\n\nSıfırla",
+        "line": 172
+      },
+      {
+        "type": "button",
+        "label": "remove\n\nAzalt",
+        "line": 183
+      },
+      {
+        "type": "button",
+        "label": "add\nArtır",
+        "line": 190
+      },
+      {
+        "type": "button",
+        "label": "refresh\n\nSıfırla",
+        "line": 195
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 97
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 100
+      },
+      {
+        "type": "button",
+        "label": "[icon: add_circle]",
+        "line": 119
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 123
+      },
+      {
+        "type": "button",
+        "label": "[icon: emoji_events]",
+        "line": 127
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 131
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 174
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 185
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 191
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 197
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 20,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "ddac57bc5d084e9da030c8f8d45e971e",
+    "screenTitle": "Sınır Durumu (0 - Pasif)",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 103
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 106
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 104
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 107
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 140
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 144
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 148
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "history",
+        "line": 103
+      },
+      {
+        "type": "button",
+        "label": "settings",
+        "line": 106
+      },
+      {
+        "type": "button",
+        "label": "[icon: history]",
+        "line": 104
+      },
+      {
+        "type": "button",
+        "label": "[icon: settings]",
+        "line": 107
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 140
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 144
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 148
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 7,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
